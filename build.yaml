@@ -18,3 +18,8 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: corneish_zen_left@1//zmk
+    artifact-name: corneish_zen_left
+  - board: corneish_zen_right@1//zmk
+    artifact-name: corneish_zen_right
